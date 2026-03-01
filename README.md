@@ -304,4 +304,4 @@ MIT — use it however you want.
 
 *Built over 200+ sessions with Claude Code. — David Pietz / [Siliroid Innovations](https://siliroid.ai)*
 
-*Questions? Find me on [Discord](https://discord.gg/WqSFwRRsqf) (Siigari) or at david@siliroid.ai*
+*Questions? Find me on [Discord](https://discord.gg/BrfNQ393QU) (Siigari) or at david@siliroid.ai*

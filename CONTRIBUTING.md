@@ -23,4 +23,4 @@ Thanks for your interest! This guide is based on patterns developed over 200+ re
 
 ## Questions?
 
-Open an issue or find me on [Discord](https://discord.gg/WqSFwRRsqf) (Siigari).
+Open an issue or find me on [Discord](https://discord.gg/BrfNQ393QU) (Siigari).
