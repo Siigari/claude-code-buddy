@@ -4,7 +4,7 @@
 
 Most people use Claude Code as a code generator. Type a prompt, get code, paste it somewhere. That's fine for scripts and snippets. But if you're building something serious — something that takes weeks or months — you need Claude to *remember who it is and what you're building* across every session.
 
-This guide covers the system I developed over 200+ sessions building a full cognitive architecture (30+ modules, 500+ tests, patent filed). No plugins. No MCP servers. Just file structure and a CLAUDE.md.
+This guide covers the system I developed over 200 sessions ago in one workspace building a full cognitive architecture (30+ modules, 500+ tests, patent filed). No plugins. No MCP servers. Just file structure and a CLAUDE.md.
 
 ---
 
