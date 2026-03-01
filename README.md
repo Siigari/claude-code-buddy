@@ -268,8 +268,19 @@ The hard part isn't the setup. It's treating Claude like a collaborator instead 
 
 ## Quick Start
 
+**Option A — Copy the template (30 seconds):**
+
+```bash
+# Copy the template directory into your project
+cp -r template/* your-project/
+```
+
+Then fill in the `CLAUDE.md` with your project details and you're done.
+
+**Option B — Build it yourself:**
+
 1. Create a `CLAUDE.md` at your project root with your project overview, commands, and architecture
-2. Create a `personas/` directory with `mind.md`, `heart.md`, `persona.md`, and `memory.md`
+2. Create a `personas/lead/` directory with `mind.md`, `heart.md`, `persona.md`, `memory.md`, and `archive.md`
 3. Add the initialization protocol and end-of-session protocol to your CLAUDE.md
 4. Start a Claude Code session and tell it to read its state files
 5. At the end of the session, tell it to wrap — it will save its state
