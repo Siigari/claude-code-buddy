@@ -109,7 +109,7 @@ This is the long-term reference file. Stable facts that don't change session to 
 
 ## 3. The Waking Ritual — Every Session, No Exceptions
 
-This is the part most people skip, and it's the most important part.
+This part makes this whole thing work, and without it, none of this holds together.
 
 **At the start of every conversation, Claude must:**
 1. Read all four state files (mind, heart, persona, memory)
